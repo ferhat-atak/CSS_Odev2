@@ -1,0 +1,62 @@
+#grikutu {
+    background-color: #eeeeee;
+    margin-left: 50px;
+    margin-right: 50px; 
+    margin-bottom: 1px;
+
+}
+
+
+ul {
+    list-style-type: none;
+
+}
+
+
+.container {
+    display: flex;
+    height: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+        
+}
+
+
+.uclusol {
+    background-color: #7ee5da;
+    width: 38%;
+    margin: 1px;
+    padding: 12px;    
+
+}
+
+
+.ucluorta {
+    background-color:  #70ccc2;
+    width: 19%;
+    margin: 1px;
+    padding-top: 6px;
+      
+}
+
+
+.uclusag {
+    background-color: #62b3aa;
+    width: 44%;
+    margin: 1px;
+   
+}
+
+
+.font14 {
+    font-size: 14px;
+    
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+
+}
